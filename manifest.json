@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.g-portal.com/int/server/rust-console/1268970/console"],
-      "js": ["content_script.js"]
+      "js": ["https://raw.githubusercontent.com/TheBlizz/rustkillfeed/main/content_script.js"]
     }
   ],
   "icons": {
